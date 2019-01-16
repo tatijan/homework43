@@ -1,0 +1,36 @@
+.form {
+    width: 400px;
+    margin: 20px auto 0;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    background: #E2E7F6;
+}
+
+form {
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #000;
+    background: #E2E7F6;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 0;
+}
+.indexForm {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    border: 1px solid #E2E7F6;
+    background: #E2E7F6;
+    padding-top: 0;
+}
+.input {
+    padding: 10px;
+    border-radius: 5px;
+}
+.submit {
+    padding: 5px;
+    border-radius: 5px;
+    background: #84D1F7;
+}
